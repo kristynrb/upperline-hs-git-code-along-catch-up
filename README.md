@@ -20,7 +20,7 @@ At this point, GitHub should refresh, and you should be on a page that has your 
 
 On the right side of the screen, look for the `Clone URL`. It should look something like this:
 
-![img](https://s3.amazonaws.com/after-school-assets/github-https.png)
+![img](https://s3.amazonaws.com/upperline/curriculum-assets/gitClone.png)
 
 Make sure it says `HTTPS Clone url`. If it doesn't, click the link that says `HTTPS` found directly below. We even circled it for you guys.
 
